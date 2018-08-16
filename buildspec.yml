@@ -30,5 +30,5 @@ phases:
  
  artifacts:
    files:
-     - '**/*'
-     
+    - wahha-dev/*
+   discard-paths: yes
