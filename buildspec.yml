@@ -28,7 +28,7 @@ phases:
      - echo Build completed on `date`
      - pwd
  
- #artifacts:
- # files:
- #   - wahha-dev/*
- #  discard-paths: yes
+ artifacts:
+   files:
+    - wahha-dev/*
+   discard-paths: yes
